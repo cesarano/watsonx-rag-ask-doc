@@ -55,7 +55,7 @@ cd <yourproject>
 
 ```
 python3 -m venv <name_of_virtual_env>
-source /venv/bin/activate
+source <name_of_virutal_env>/bin/activate
 ```
 
 3. Install the required libraries using the following commands:
